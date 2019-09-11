@@ -1,0 +1,14 @@
+{
+  "name": "scotts-interview",
+  "version": "0.0.0",
+  "description": "An wild interview appears!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
